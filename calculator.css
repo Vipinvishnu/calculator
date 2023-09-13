@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(244, 201, 201);
+    margin-bottom: 50px;
+    margin-top: -150px;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 50px;
+}
+
+.container{
+    width: 460px;
+    height: 680px;
+    background-color: rgb(238, 236, 236);
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+p{
+    color: black;
+    font-size:50px;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 10px;
+}
+
+
+#result{
+    background-color: rgb(90, 90, 90);
+    height: 80px;
+    width: 440px;
+    margin: 5px;
+    font-size:50px;
+    text-align: right;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, 0.908);
+    color: rgb(80, 191, 191);
+    width: 80px;
+    height: 70px;
+    font-size: 50px;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.clear{
+    background-color: rgb(241, 82, 82);
+}
+
+.sum{
+    background-color: rgba(0, 0, 0, 0.895);
+}
+
+.btn:hover{
+    border: 3px solid whitesmoke;
+}
